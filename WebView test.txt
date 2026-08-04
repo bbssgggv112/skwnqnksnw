@@ -1,0 +1,35 @@
+this script makes u upsidedown
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/upsidedown.txt"))()
+
+trace any photo you have at any game (tut at my discord)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/t.txt"))()
+
+make a clone of urself that does the last thing you did, you can create multiple
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/timetravel.txt"))()
+
+online Russian roulette with other players!!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/❤%EF%B8%8F.txt"))()
+
+script that let's you go to the mall! use it at horror games to get happy:)
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/mall.txt"))()
+
+this script makes a game that you can play once and only ONCE
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/lol.txt"))()
+
+litemetica but in Roblox! worse that Dex's object copy but it works!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/o.txt"))()
+
+jump like hunter from l4d2, with fe animations!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/hunter.txt"))()
+
+wanna get high? use this
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/cola.txt"))()
+
+the best tas script of all time!!!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/tas.txt"))()
+
+you die to the void too much? here is a script to fix that!!
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/bruh.txt"))()
+
+cool fe emote that makes people laugh:D
+loadstring(game:HttpGet("https://raw.githubusercontent.com/bbssgggv112/skwnqnksnw/refs/heads/main/emote.txt"))()
